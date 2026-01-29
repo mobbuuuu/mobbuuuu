@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quardiumdl" alt="quardiumdl" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mobresosu" target="blank"><img src="https://img.shields.io/twitter/follow/mobresosu?logo=twitter&style=for-the-badge" alt="mobresosu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mobbuuuu" target="blank"><img src="https://img.shields.io/twitter/follow/mobbuuuu?logo=twitter&style=for-the-badge" alt="mobbuuuu" /></a> </p>
 
 - 🔭 I’m currently working as [DLCE Indonesian Translator](https://github.com/DL-Community/DLCE-Translations)
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mobresosu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mobresosu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mobresosu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mobresosu" height="30" width="40" /></a>
+<a href="https://twitter.com/mobbuuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mobbuuuu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mobbuuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mobbuuuu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
