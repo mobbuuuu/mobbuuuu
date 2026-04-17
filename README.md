@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Quardium (Mobres actually)</h1>
+<h1 align="center">Hi 👋, I'm Mobbuuuu</h1>
 <h3 align="center">laziest guy ngl</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quardiumdl&label=Profile%20views&color=0e75b6&style=flat" alt="quardiumdl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=quardiumdl&label=Profile%20views&color=0e75b6&style=flat" alt="mobbuuuu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quardiumdl" alt="quardiumdl" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobbuuuu" alt="mobbuuuu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mobbuuuu" target="blank"><img src="https://img.shields.io/twitter/follow/mobbuuuu?logo=twitter&style=for-the-badge" alt="mobbuuuu" /></a> </p>
 
