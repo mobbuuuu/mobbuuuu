@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 a guy who love vibe coding allat, and ofc i can't code so 🛌🛌
+Personal Web : https://mobbuuuu.github.io/personal/
 
 
 ## 🌐 Socials:
