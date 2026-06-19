@@ -1,8 +1,8 @@
-![](https://img4.gelbooru.com/images/52/d6/52d60d03481718b7109eddd421a26a3a.jpg)<br/>
+![](https://i.ibb.co.com/tPQzpztc/52d60d03481718b7109eddd421a26a3a-1.jpg)<br/>
 
 # 💫 About Me:
-a guy who love vibe coding allat, and ofc i can't code so 🛌🛌
-Personal Web : https://mobbuuuu.github.io/personal/
+a guy who loves vibe coding allat, and ofc i can't code so 🛌🛌
+Personal Web: https://mobbuuuu.github.io/personal/
 
 
 ## 🌐 Socials:
